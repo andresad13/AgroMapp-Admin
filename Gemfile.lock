@@ -74,7 +74,7 @@ GEM
     coffee-script-source (1.12.2)
     concurrent-ruby (1.1.4)
     crass (1.0.4)
-    erubi (1.7.1)
+    erubi (1.8.0)
     execjs (2.7.0)
     ffi (1.9.25)
     globalid (0.4.1)
@@ -214,7 +214,7 @@ DEPENDENCIES
   web-console (>= 3.3.0)
 
 RUBY VERSION
-   ruby 2.3.7p456
+   ruby 2.5.3p105
 
 BUNDLED WITH
-   1.17.2
+   1.16.6
